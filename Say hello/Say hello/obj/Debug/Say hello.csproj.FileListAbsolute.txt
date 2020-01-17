@@ -1,0 +1,15 @@
+c:\users\марина\source\repos\Say hello\Say hello\bin\Debug\Say hello.exe.config
+c:\users\марина\source\repos\Say hello\Say hello\bin\Debug\Say hello.exe
+c:\users\марина\source\repos\Say hello\Say hello\bin\Debug\Say hello.pdb
+c:\users\марина\source\repos\Say hello\Say hello\obj\Debug\Say hello.csprojAssemblyReference.cache
+c:\users\марина\source\repos\Say hello\Say hello\obj\Debug\MainWindow.g.cs
+c:\users\марина\source\repos\Say hello\Say hello\obj\Debug\App.g.cs
+c:\users\марина\source\repos\Say hello\Say hello\obj\Debug\Say hello_MarkupCompile.cache
+c:\users\марина\source\repos\Say hello\Say hello\obj\Debug\Say hello_MarkupCompile.lref
+c:\users\марина\source\repos\Say hello\Say hello\obj\Debug\MainWindow.baml
+c:\users\марина\source\repos\Say hello\Say hello\obj\Debug\Say hello.g.resources
+c:\users\марина\source\repos\Say hello\Say hello\obj\Debug\Say_hello.Properties.Resources.resources
+c:\users\марина\source\repos\Say hello\Say hello\obj\Debug\Say hello.csproj.GenerateResource.cache
+c:\users\марина\source\repos\Say hello\Say hello\obj\Debug\Say hello.csproj.CoreCompileInputs.cache
+c:\users\марина\source\repos\Say hello\Say hello\obj\Debug\Say hello.exe
+c:\users\марина\source\repos\Say hello\Say hello\obj\Debug\Say hello.pdb
