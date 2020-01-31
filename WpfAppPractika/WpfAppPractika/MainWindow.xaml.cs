@@ -90,13 +90,13 @@ switch (operation)
 case "+":
 rightop = (num1 + num2).ToString();
 break;
-case "-:
+case "-"
 rightop = (num1 + num2).ToString();
 break;
 case "*"
 rightop = (num1 + num2).ToString();
 break;
-case "/:
+case "/"
 rightop = (num1 + num2).ToString();
 break;
     }
