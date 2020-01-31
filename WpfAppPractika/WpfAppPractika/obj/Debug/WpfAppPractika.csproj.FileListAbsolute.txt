@@ -1,0 +1,14 @@
+C:\Users\Cab38-Student01\source\repos\WpfAppPractika\WpfAppPractika\bin\Debug\WpfAppPractika.exe.config
+C:\Users\Cab38-Student01\source\repos\WpfAppPractika\WpfAppPractika\bin\Debug\WpfAppPractika.exe
+C:\Users\Cab38-Student01\source\repos\WpfAppPractika\WpfAppPractika\bin\Debug\WpfAppPractika.pdb
+C:\Users\Cab38-Student01\source\repos\WpfAppPractika\WpfAppPractika\obj\Debug\WpfAppPractika.csprojAssemblyReference.cache
+C:\Users\Cab38-Student01\source\repos\WpfAppPractika\WpfAppPractika\obj\Debug\MainWindow.g.cs
+C:\Users\Cab38-Student01\source\repos\WpfAppPractika\WpfAppPractika\obj\Debug\App.g.cs
+C:\Users\Cab38-Student01\source\repos\WpfAppPractika\WpfAppPractika\obj\Debug\WpfAppPractika_MarkupCompile.cache
+C:\Users\Cab38-Student01\source\repos\WpfAppPractika\WpfAppPractika\obj\Debug\WpfAppPractika_MarkupCompile.lref
+C:\Users\Cab38-Student01\source\repos\WpfAppPractika\WpfAppPractika\obj\Debug\MainWindow.baml
+C:\Users\Cab38-Student01\source\repos\WpfAppPractika\WpfAppPractika\obj\Debug\WpfAppPractika.g.resources
+C:\Users\Cab38-Student01\source\repos\WpfAppPractika\WpfAppPractika\obj\Debug\WpfAppPractika.Properties.Resources.resources
+C:\Users\Cab38-Student01\source\repos\WpfAppPractika\WpfAppPractika\obj\Debug\WpfAppPractika.csproj.GenerateResource.cache
+C:\Users\Cab38-Student01\source\repos\WpfAppPractika\WpfAppPractika\obj\Debug\WpfAppPractika.exe
+C:\Users\Cab38-Student01\source\repos\WpfAppPractika\WpfAppPractika\obj\Debug\WpfAppPractika.pdb
